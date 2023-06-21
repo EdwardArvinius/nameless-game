@@ -8,8 +8,8 @@ Pong is a two-player game where each player controls a paddle. The objective is 
 
 # Features
 
-Two-player mode: Play against a friend and compete to score the most points.
-Real-time gameplay: The game provides a smooth and responsive experience.
-Ball physics: The ball bounces off the paddles and walls, simulating realistic movement.
-Score tracking: Keep track of the score for each player during the game.
-Sound effects: Enjoy sound effects for ball bounces and score updates.
+- Two-player mode: Play against a friend and compete to score the most points.
+- Real-time gameplay: The game provides a smooth and responsive experience.
+- Ball physics: The ball bounces off the paddles and walls, simulating realistic movement.
+- Score tracking: Keep track of the score for each player during the game.
+- Sound effects: Enjoy sound effects for ball bounces and score updates.
