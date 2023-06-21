@@ -12,3 +12,8 @@ Pong is a two-player game where each player controls a paddle. The objective is 
 - Real-time gameplay: The game provides a smooth and responsive experience.
 - Ball physics: The ball bounces off the paddles and walls, simulating realistic movement.
 - Score tracking: Keep track of the score for each player during the game.
+
+# Developers
+Anastasia
+Edward
+Nate
